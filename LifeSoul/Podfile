@@ -1,0 +1,11 @@
+platform :ios,'7.1'
+pod "AFNetworking"
+pod "FMDB"
+pod "Reachability"
+pod "EGOTableViewPullRefresh"
+pod "SDWebImage"
+pod "JSONKit"
+pod "SVProgressHUD"
+pod "MBProgressHUD"
+pod "ZBarSDK"
+pod "UIColor+Categories"
